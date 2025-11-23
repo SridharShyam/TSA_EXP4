@@ -1,5 +1,4 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-#### Date: 16.09.2025
 #### Name: SHYAM S
 #### Register.No: 212223240156
 
